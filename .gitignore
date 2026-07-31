@@ -1,0 +1,17 @@
+node_modules/
+dist/
+*.db
+service-account-key.json
+.env
+.env.local
+.firebase/
+excel_dump.txt
+
+.claude/
+
+# Input/Output Excel files (tidak perlu di-track git)
+input/
+output-app/
+backend/input-trash/
+output/
+.vercel
